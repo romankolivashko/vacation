@@ -6,3 +6,11 @@ body {
   display: flex;
   align-items: flex-end;
 } */
+
+/* .center {
+  align-items: flex-start;
+} */
+
+.heading {
+  background-color: rgb(80, 94, 133);
+}
